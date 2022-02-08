@@ -1,6 +1,6 @@
 # Portfolio
 
-##Description 
+## Description 
 This is my current version of Portfolio using Bootstrap framework to alter my styling. This includes a link to my deployed project; The Marvel Wiki. 
 There is also updated Navbar functionalities, and updated links for LinkedIn.
 
