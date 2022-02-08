@@ -36,7 +36,7 @@ html{
     scroll-behavior: smooth;
 }
 .header {
-    height: 50vh;
+    height: 35vh;
     background-image: url(https://bit.ly/3AoReTf);
     background-position: top;
     background-repeat: no-repeat;
@@ -80,7 +80,7 @@ html{
 /*container */
 .header__text-box {
     text-align: center;
-    position: absolute;
+    position: relative;
     top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -89,14 +89,13 @@ html{
 .heading-primary {
     text-align: center;
     display: inline-block;
-    padding-top: 19em;
     position: relative;
 
 }
 .heading-primary--main {
     font-size: 6.5rem;
     font-weight: 400;
-    letter-spacing: 0.6rem;
+    letter-spacing: 0.4rem;
 
 }
 
@@ -135,11 +134,12 @@ h2 {
 
 /* section 2 projects */
 
-.project-portfolio  .push{
+.push{
     font-size: 6rem;
-    font-weight: 500;
+    font-weight: 450;
     text-align: center;
     text-transform: uppercase;
+    text-decoration: underline;
     padding: 0px 0px 100px 0px;
 
 }
@@ -241,10 +241,10 @@ ul {
 
 footer {
     display: block;
-    margin-top: 150px;
+    margin-top: 100px;
 }
 .footer {
-    background-color: #4C5F9A;
+    background-color: #aaafbe;
     padding: 2rem 0 150px 0;
     font-size: 1.4rem;
 }
